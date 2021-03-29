@@ -3008,7 +3008,7 @@
           "rawtx"
         ],
         "properties": {
-          "txHex": {
+          "rawtx": {
             "type": "string",
             "description": "Signed raw tx hex to broadcast"
           }
